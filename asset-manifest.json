@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Epic-Seven-Memory-Game/static/css/main.b10e31bb.css",
+    "main.js": "/Epic-Seven-Memory-Game/static/js/main.0f74e0eb.js",
+    "static/media/Kayron.png": "/Epic-Seven-Memory-Game/static/media/Kayron.e3257357b0f06b5b0a8c.png",
+    "static/media/Lidica.png": "/Epic-Seven-Memory-Game/static/media/Lidica.c9604325ac1aabe4ddad.png",
+    "static/media/Charles.png": "/Epic-Seven-Memory-Game/static/media/Charles.50e285ecbe6ed9fc55d4.png",
+    "static/media/Angelica.png": "/Epic-Seven-Memory-Game/static/media/Angelica.3d865293519bc5fe473d.png",
+    "static/media/Cermia.png": "/Epic-Seven-Memory-Game/static/media/Cermia.ed74f4fb29d565333105.png",
+    "static/media/Krau.png": "/Epic-Seven-Memory-Game/static/media/Krau.7be69560910b7b0f45b7.png",
+    "static/media/Crimson Armin.png": "/Epic-Seven-Memory-Game/static/media/Crimson Armin.48356507fb881eefcbfc.png",
+    "static/media/Challenger Dominiel.png": "/Epic-Seven-Memory-Game/static/media/Challenger Dominiel.c5dea5c009cc7b8676a6.png",
+    "static/media/Tamarinne.png": "/Epic-Seven-Memory-Game/static/media/Tamarinne.b3d1f244c7ed32a15d17.png",
+    "static/media/Sez.png": "/Epic-Seven-Memory-Game/static/media/Sez.da2129414bcbfc9ee952.png",
+    "static/media/Lots.png": "/Epic-Seven-Memory-Game/static/media/Lots.3741cb68bb4042a06969.png",
+    "static/media/Diene.png": "/Epic-Seven-Memory-Game/static/media/Diene.e171361493ebcfa58aad.png",
+    "static/media/epic-seven.webp": "/Epic-Seven-Memory-Game/static/media/epic-seven.083e9933d35360655b17.webp",
+    "index.html": "/Epic-Seven-Memory-Game/index.html",
+    "main.b10e31bb.css.map": "/Epic-Seven-Memory-Game/static/css/main.b10e31bb.css.map",
+    "main.0f74e0eb.js.map": "/Epic-Seven-Memory-Game/static/js/main.0f74e0eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b10e31bb.css",
+    "static/js/main.0f74e0eb.js"
+  ]
+}
