@@ -1,0 +1,41 @@
+.Card {
+    width: 12rem;
+    aspect-ratio: 1/1;
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    box-shadow: 0 6px 24px 0 rgba(0, 0, 0, .05);
+    border-radius: 10px;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    transition: transform 0.2s;
+    background-color: transparent;
+}
+
+.Card::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 5rem;
+    background-image: linear-gradient(to bottom, transparent, rgba(0, 0, 0, 0.705));
+}
+
+.Card:hover {
+    transform: scale(1.025);
+}
+
+.image {
+    width: 100%;
+    display: block;
+}
+
+.name {
+    position: absolute;
+    bottom: 1rem;
+    left: 50%;
+    transform: translateX(-50%);
+    color: white;
+    z-index: 2;
+    text-align: center;
+}
